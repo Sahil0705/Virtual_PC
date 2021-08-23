@@ -1,1 +1,1 @@
-# Virtual_PC - OS Project
+# Virtual_PC - OS Project - Group Project (3 Members)
